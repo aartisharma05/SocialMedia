@@ -1,0 +1,45 @@
+.navbar-nav {
+    margin-left: auto;
+}
+table,td {
+border: 1px solid black;
+border-collapse: collapse;
+
+}
+body{
+overflow-x: hidden;
+background-color:rgba(252, 241, 241, 0.6); 
+
+}
+
+.container{
+    position: absolute;
+    top: 70%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 26rem;
+    max-height:35rem;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+    background: #ffff;
+    border-radius: 0.625rem;
+    overflow:auto;
+    border: 1px  rgb(113, 110, 110);
+   
+}
+
+.container::-webkit-scrollbar {
+    display:none;
+}
+ .body h3{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+    background: #ADD8E6;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
