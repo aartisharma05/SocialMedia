@@ -1,6 +1,5 @@
 # SocialMedia
 
-
 # Medme
 
 This repository contains a web application that is having two user types which is "user" and "admin". It allows users to create profile , update profile, upload a post, save and edit the post. User can see the post of users present in the database on the dashboard and can add like, comment on it. Same features are there for "Admin" additional admin can activate or deactivate any post from its end. The application is built using HTML, CSS, JavaScript,Jquery and PHP.
